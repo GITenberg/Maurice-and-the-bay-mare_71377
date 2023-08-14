@@ -1,0 +1,31 @@
+_repo: Maurice-and-the-bay-mare_71377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knibbs, Henry Herbert
+    aliases:
+    - Knibbs, H. H. (Henry Herbert)
+    - Knibbs, Harry Herbert
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '4257'
+    url: http://www.gutenberg.org/2009/agents/4257
+description: ''
+gutenberg_issued: '2023-08-10'
+identifiers:
+  gutenberg: '71377'
+language: en
+pgterms:marc904: https://archive.org/details/the-popular-magazine-v-83-n-06-1927-04-07
+pgterms:marc905: 20230801162539knibbs
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Maurice and the bay mare
+url: http://www.gutenberg.org/ebooks/71377
