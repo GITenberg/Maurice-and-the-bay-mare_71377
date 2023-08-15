@@ -1,5 +1,8 @@
 _repo: Maurice-and-the-bay-mare_71377
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71377-h/images/cover.jpg
 creator:
   author:
     agent_name: Knibbs, Henry Herbert
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4257'
     url: http://www.gutenberg.org/2009/agents/4257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71377#Maurice-and-the-bay-mare
 gutenberg_issued: '2023-08-10'
 identifiers:
   gutenberg: '71377'
